@@ -128,3 +128,8 @@ sample-app-java+push-notification: A sample application with push notification c
 
 sample-app-kotlin+push-notification: A sample application with push notification capabilities using Kotlin. 🔔🧳
 
+### Screenshots
+
+![Screenshot of the application](### Screenshots
+
+![Screenshot of the application](Screenshot_20250625_172202.jpg))
