@@ -132,4 +132,5 @@ sample-app-kotlin+push-notification: A sample application with push notification
 
 ![Screenshot of the application](### Screenshots
 
+![image alt]()
 ![image alt](https://github.com/Snehil208001/CometChat-Kotlin-UI-Kit/blob/f840c4a51d67d2868e19f82a7c757e962299a9bb/Screenshot_20250625_172202.png)
